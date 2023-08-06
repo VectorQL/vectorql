@@ -1,4 +1,6 @@
-### Hi there 👋
+### VectorQL
+
+VectorQL is a distributed, analytical database. It allows you to store massive amounts of vectorized data and explore it using SQL and other programmatic query facilities.
 
 <!--
 **VectorQL/vectorql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
